@@ -68,6 +68,6 @@ $ npm run start:prod
 
 ## Top 30 marketing API
 ```
-http://localhost:3000/refferal/topSales
+http://localhost:3001/histories/allDiceRolled
 ```
 
