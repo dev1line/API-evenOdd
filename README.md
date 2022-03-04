@@ -66,7 +66,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Top 30 marketing API
+## GET ALL HISTORIES' ROLLDICE EVENTS API
 ```
 http://localhost:3001/histories/allDiceRolled
 ```
